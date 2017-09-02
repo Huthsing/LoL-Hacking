@@ -7,12 +7,12 @@ This repository covers everything required to start a SUCCESSFUL League of Legen
 
 # EloBuddy.Core
 
+The Core is the brain of this project. It interacts with League of Legends and provides a .NET API for plugin developers. 
+The "Teemo Client" keeps you safe from Riot Games rootkit. 
+
 # EloBuddy.Website
 
 Full ready to go IPB forum, just requires a fresh database.
-
-The Core is the brain of this project. It interacts with League of Legends and provides a .NET API for plugin developers. 
-The "Teemo Client" keeps you safe from Riot Games rootkit. 
 
 # EloBuddy.Loader
 
@@ -37,4 +37,8 @@ Fancy database for plugins.
 # EloBuddy.Networking
 
 More auth.
+
+# Support
+
+If you want EloBuddy to stay up and fight against American nazi companies, you can support me with a donation under: paypal@epicdevs.com 
 
